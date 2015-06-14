@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-## This is a markdown file for coursera course
+## This is a markdown file
